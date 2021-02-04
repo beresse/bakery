@@ -3,7 +3,7 @@ import React from 'react';
 class Pay extends  React.Component{
     render(){
         return(
-            <div>Pay.jsx</div>
+            <div>Pay</div>
         )
     }
 }
